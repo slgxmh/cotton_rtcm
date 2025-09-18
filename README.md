@@ -1,4 +1,4 @@
-# cutton_rtcm
+# cotton_rtcm
 
 ## Dataset
 
